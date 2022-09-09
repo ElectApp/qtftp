@@ -11,3 +11,5 @@ them manually by running the syncqt Perl script. For example:
 
 cd qtftp
 <QTDIR>/bin/syncqt.pl -version 5.1.0
+
+Another method follow: https://blog.birost.com/a?ID=00350-e93b803f-47d7-43c2-9595-4468663170d0
